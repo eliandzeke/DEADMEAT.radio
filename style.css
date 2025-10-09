@@ -101,3 +101,13 @@ h2 {
      background-attachment: fixed;
   background-size: cover;
 }
+
+    /* Example media query for screens smaller than 600px */
+    @media (max-width: 600px) {
+        body {
+            font-size: 14px;
+        }
+        .container {
+            flex-direction: column; /* Stack elements vertically on small screens */
+        }
+    }
