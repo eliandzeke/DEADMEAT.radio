@@ -128,3 +128,14 @@ h2 {
   font-style: italic;
 }
 
+.body5 {
+  background-color: black;
+    background-image: url(https://gifdb.com/images/high/transparent-heart-sticker-purple-pixel-heart-pdxsm5ol8e6sezso.webp);
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+  background-size: contain;
+}
+
+.love{
+  padding-left: 98%;
+}
